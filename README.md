@@ -19,6 +19,11 @@ The methodology includes reviewing GDPR principles, identifying appropriate data
 This work contributes to a broader understanding of data protection strategies under GDPR and offers a practical framework for handling sensitive information in research environments.
 
 
- 
+GibHub likns; 
+
+ https://github.com/JohanRiquelme/johanna || Read me 
+https://github.com/JohanRiquelme/ePortfolio || ePortfolio Public | job simulations.  (it is not ready at the moment, i am working on those).
+https://github.com/JohanRiquelme/thesis_Data_security || Balancing Anonymity and Accuracy An Ethical Assessment of Privacy-Preserving Methods
+
 
 
