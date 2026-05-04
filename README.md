@@ -18,25 +18,33 @@ The aim is to support future students and professionals in navigating privacy co
 The methodology includes reviewing GDPR principles, identifying appropriate datasets, and testing privacy-preserving techniques using established libraries. The U.S. Census Bureau’s Adult Income Dataset (Repository, 1996) was selected for its accessibility and relevance to privacy-focused research.
 This work contributes to a broader understanding of data protection strategies under GDPR and offers a practical framework for handling sensitive information in research environments.
 
-Featured Projects
+# Featured Projects
 (Currently developing a structured data portfolio, GibHub likns;)
 
-Read me
+# Read me
+
 https://github.com/JohanRiquelme/johanna || Read me
 
-Thesis Data Security
+# Thesis Data Security
+
 https://github.com/JohanRiquelme/thesis_Data_security || Balancing Anonymity and Accuracy An Ethical Assessment of Privacy-Preserving Methods
 
-Descriptive Statistics Project
+# Descriptive Statistics Project
+
 https://github.com/JohanRiquelme/Descriptive_Statistics || Descriptive Statistics_titanic_dataset.ipynb for analysis using Python (Pandas)
 
-EDA, Explanatory Data Analysis
+# EDA, Explanatory Data Analysis
+
 https://github.com/JohanRiquelme/EDA || This notebook covers the EDA process of the research. It includes basic statistic analysis, data manipulation and cleaning, as well as inferential statistics.
 
-Sales Data Analysis (I am working on those)
+# Sales Data Analysis (I am working on those)
+
 Identifying trends, patterns, and key insights from business data
 
-Interactive Dashboard (Planned)
+# Interactive Dashboard (Planned)
 
-Visualising key metrics using Power BI
+# Visualising key metrics using Power BI
+
+
+
 
