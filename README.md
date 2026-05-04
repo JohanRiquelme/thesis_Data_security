@@ -23,7 +23,7 @@ This work contributes to a broader understanding of data protection strategies u
 
 # Read me
 
-https://github.com/JohanRiquelme/johanna || Read me
+https://github.com/JohanRiquelme/johanna || Read me 👋 About Me, Johanna
 
 # Thesis Data Security
 
